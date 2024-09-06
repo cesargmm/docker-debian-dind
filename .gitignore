@@ -1,0 +1,8 @@
+# Environment files
+.env
+
+# IDEA
+.idea
+
+# docker-compose
+docker-compose.*
